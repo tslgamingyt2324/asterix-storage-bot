@@ -4,9 +4,9 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ========= CONFIG =========
-API_ID       = int(os.environ.get("API_ID", "0"))
-API_HASH     = os.environ.get("API_HASH", "")
-BOT_TOKEN    = os.environ.get("BOT_TOKEN", "")
+API_ID       = int(os.environ.get("API_ID", "10386276"))
+API_HASH     = os.environ.get("API_HASH", "eebb48fdd2b61d925217b584ec8e9859")
+BOT_TOKEN    = os.environ.get("BOT_TOKEN", "8227634039:AAG0_d9dNvO30I31RMTrpHDJCFJ459w4FSI")
 MAIN_CHANNEL = "@FreeWebseriesBD"
 BACKUP_CH    = "@AsterixMovies"
 FILE_CH_ID   = -1003017034291     # তোমার Storage Channel chat_id
