@@ -35,7 +35,7 @@ from telegram.ext import (
 # ------------------------------
 # If Pella/Ai requires token in-code, paste it here.
 # Otherwise set the environment variable BOT_TOKEN and the code will use it.
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8227634039:AAG0_d9dNvO30I31RMTrpHDJCFJ459w4FSI")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "GIVE TOKEN HERE")
 
 # Public channel/usernames (use @username)
 MAIN_CHANNEL = "@FreeWebseriesBD"
